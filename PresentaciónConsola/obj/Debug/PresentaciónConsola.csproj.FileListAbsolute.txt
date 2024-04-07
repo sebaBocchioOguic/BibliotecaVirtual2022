@@ -1,0 +1,16 @@
+D:\SourceTemp\BibliotecaVirtual\PresentaciónConsola\obj\Debug\PresentaciónConsola.csproj.AssemblyReference.cache
+D:\SourceTemp\BibliotecaVirtual\PresentaciónConsola\obj\Debug\PresentaciónConsola.csproj.SuggestedBindingRedirects.cache
+D:\SourceTemp\BibliotecaVirtual\PresentaciónConsola\obj\Debug\PresentaciónConsola.csproj.CoreCompileInputs.cache
+D:\SourceTemp\BibliotecaVirtual\PresentaciónConsola\bin\Debug\PresentaciónConsola.exe.config
+D:\SourceTemp\BibliotecaVirtual\PresentaciónConsola\bin\Debug\PresentaciónConsola.exe
+D:\SourceTemp\BibliotecaVirtual\PresentaciónConsola\bin\Debug\PresentaciónConsola.pdb
+D:\SourceTemp\BibliotecaVirtual\PresentaciónConsola\bin\Debug\Entidades.dll
+D:\SourceTemp\BibliotecaVirtual\PresentaciónConsola\bin\Debug\Logica.dll
+D:\SourceTemp\BibliotecaVirtual\PresentaciónConsola\bin\Debug\Entidades.pdb
+D:\SourceTemp\BibliotecaVirtual\PresentaciónConsola\bin\Debug\Logica.pdb
+D:\SourceTemp\BibliotecaVirtual\PresentaciónConsola\obj\Debug\PresentaciónConsola.csproj.CopyComplete
+D:\SourceTemp\BibliotecaVirtual\PresentaciónConsola\obj\Debug\PresentaciónConsola.exe
+D:\SourceTemp\BibliotecaVirtual\PresentaciónConsola\obj\Debug\PresentaciónConsola.pdb
+D:\SourceTemp\BibliotecaVirtual\PresentaciónConsola\bin\Debug\Datos.dll
+D:\SourceTemp\BibliotecaVirtual\PresentaciónConsola\bin\Debug\Datos.pdb
+D:\SourceTemp\BibliotecaVirtual\PresentaciónConsola\bin\Debug\Datos.dll.config
