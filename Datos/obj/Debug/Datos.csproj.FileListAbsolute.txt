@@ -1,0 +1,10 @@
+D:\SourceTemp\BibliotecaVirtual\Datos\bin\Debug\Datos.dll
+D:\SourceTemp\BibliotecaVirtual\Datos\bin\Debug\Datos.pdb
+D:\SourceTemp\BibliotecaVirtual\Datos\bin\Debug\Entidades.dll
+D:\SourceTemp\BibliotecaVirtual\Datos\bin\Debug\Entidades.pdb
+D:\SourceTemp\BibliotecaVirtual\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\SourceTemp\BibliotecaVirtual\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\SourceTemp\BibliotecaVirtual\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\SourceTemp\BibliotecaVirtual\Datos\obj\Debug\Datos.dll
+D:\SourceTemp\BibliotecaVirtual\Datos\obj\Debug\Datos.pdb
+D:\SourceTemp\BibliotecaVirtual\Datos\bin\Debug\Datos.dll.config

@@ -1,0 +1,6 @@
+D:\SourceTemp\BibliotecaVirtual\Entidades\bin\Debug\Entidades.dll
+D:\SourceTemp\BibliotecaVirtual\Entidades\bin\Debug\Entidades.pdb
+D:\SourceTemp\BibliotecaVirtual\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\SourceTemp\BibliotecaVirtual\Entidades\obj\Debug\Entidades.dll
+D:\SourceTemp\BibliotecaVirtual\Entidades\obj\Debug\Entidades.pdb
+D:\SourceTemp\BibliotecaVirtual\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
