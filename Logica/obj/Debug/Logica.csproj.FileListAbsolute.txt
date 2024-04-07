@@ -1,0 +1,12 @@
+D:\SourceTemp\BibliotecaVirtual\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+D:\SourceTemp\BibliotecaVirtual\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\SourceTemp\BibliotecaVirtual\Logica\bin\Debug\Logica.dll
+D:\SourceTemp\BibliotecaVirtual\Logica\bin\Debug\Logica.pdb
+D:\SourceTemp\BibliotecaVirtual\Logica\bin\Debug\Datos.dll
+D:\SourceTemp\BibliotecaVirtual\Logica\bin\Debug\Entidades.dll
+D:\SourceTemp\BibliotecaVirtual\Logica\bin\Debug\Datos.pdb
+D:\SourceTemp\BibliotecaVirtual\Logica\bin\Debug\Entidades.pdb
+D:\SourceTemp\BibliotecaVirtual\Logica\obj\Debug\Logica.csproj.CopyComplete
+D:\SourceTemp\BibliotecaVirtual\Logica\obj\Debug\Logica.dll
+D:\SourceTemp\BibliotecaVirtual\Logica\obj\Debug\Logica.pdb
+D:\SourceTemp\BibliotecaVirtual\Logica\bin\Debug\Datos.dll.config
